@@ -1,0 +1,49 @@
+# Navigasi Terminal dan Manajemen Sistem Operasi (Modul 2)
+1. Memahami dasar manajemen proses dan memori  
+2. Mengetahui cara sistem membagi RAM dan CPU  
+3. Mempelajari fungsi memori virtual  
+4. Memahami multitasking  
+B. Requirement
+1. Sistem Operasi: Windows 11  
+2. Tools: VirtualBox  
+C. Dasar Teori
+1.Pengertian Manajemen Memori
+2.Fungsi Manajemen Memori
+3.Pengertian Manajemen Proses
+4.Fungsi Manajemen Proses
+5.Perbandingan Manajemen Proses dan Manajemen Memori
+Manajemen Memori
+1. Memori adalah tempat penyimpanan sementara untuk mendukung kerja CPU  
+2. Sistem operasi mengatur alokasi RAM untuk setiap proses  
+3. Memori virtual digunakan untuk membantu saat RAM penuh  
+ Fungsi:
+1. Alokasi memori  
+2. Pengelolaan memori  
+3. Perlindungan antar proses  
+4. Penanganan fragmentasi  
+5. Swapping dan paging  
+ Manajemen Proses
+1. Proses adalah program yang sedang berjalan  
+2. Sistem operasi mengatur penggunaan CPU  
+ Fungsi:
+1. Membuat dan menghapus proses  
+2. Scheduling CPU  
+3. Sinkronisasi proses  
+4. Komunikasi antar proses  
+5. Penanganan deadlock  
+ Perbandingan
+1. Manajemen proses → mengatur CPU  
+2. Manajemen memori → mengatur RAM  
+3. Proses → fokus aktivitas  
+4. Memori → fokus kapasitas  
+D. Implementasi
+Monitoring di Windows
+1. Tekan `Ctrl + Shift + Esc`  
+2. Buka tab **Performance**  
+3. CPU rendah (~6%)  
+4. RAM terpakai ~57%  
+ E. Hasil
+1. Sistem berjalan stabil  
+2. CPU dalam kondisi idle  
+3. RAM masih cukup  
+4. Tidak menggunakan swap  
