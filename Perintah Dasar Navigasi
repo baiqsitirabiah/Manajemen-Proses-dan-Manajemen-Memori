@@ -1,0 +1,8 @@
+1. cd → pindah folder  
+2. mkdir jila → membuat folder  
+3. ls → melihat isi folder  
+4. nano tes.py → membuat file python  
+5. python3 tes.py → menjalankan python  
+6. nano jill.sh → membuat shell script  
+7. chmod +x jill.sh → memberi izin  
+8. ./jill.sh → menjalankan script  
